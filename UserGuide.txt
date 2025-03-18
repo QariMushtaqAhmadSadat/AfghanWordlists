@@ -1,0 +1,1 @@
+Note: The file AfghanFirstNamesAndLastNamesWithNumbers is split into two parts: part01 and part02. To use it, please download both parts. Once downloaded, extract part01, and the files will automatically combine.
