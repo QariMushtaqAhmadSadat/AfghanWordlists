@@ -1,0 +1,5 @@
+About the Wordlists:
+
+These wordlists are the first of their kind, generated in Afghanistan for the Information System Security Directorate of Afghanistan. They aim to promote the development of penetration testing and advance the field of cybersecurity in the region.
+
+Important Notice: These wordlists are intended strictly for ethical and legal purposes. Any misuse or engagement in unethical or illegal activities is prohibited.
